@@ -1,4 +1,4 @@
-package com.example.location;
+package com.example.aplikasilokasi;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.location", appContext.getPackageName());
+        assertEquals("com.example.aplikasilokasi", appContext.getPackageName());
     }
 }

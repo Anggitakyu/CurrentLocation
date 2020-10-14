@@ -1,4 +1,4 @@
-package com.example.location;
+package com.example.aplikasilokasi;
 
 import org.junit.Test;
 
